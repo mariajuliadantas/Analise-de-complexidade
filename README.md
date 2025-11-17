@@ -28,6 +28,7 @@ Para gerar os gráficos de análise a partir dos dados coletados, execute:
 python gerar_graficos.py
 
 
+
 Isso salvará três imagens PNG no diretório.
 
 (Opcional) Executar os Benchmarks Originais:
